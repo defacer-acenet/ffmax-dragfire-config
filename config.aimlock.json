@@ -15,9 +15,9 @@
         "right": 0.75
       }
     },
-    "wallhack": { "enabled": false },
-    "speedhack": { "enabled": false },
-    "esp": { "enabled": false }
+    "wallhack": { "enabled": true },
+    "speedhack": { "enabled": true },
+    "esp": { "enabled": true }
   },
   "antiBan": {
     "randomizeActions": true,
